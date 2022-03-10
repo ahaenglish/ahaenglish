@@ -3,6 +3,71 @@
 ![image](https://user-images.githubusercontent.com/101308954/157587222-a719fc51-4883-4710-9efe-ad9dc44c5d68.png)
 > 用就是最好的学，学以致用，以用促学。
 
+## [the Civil Code](https://www.sohu.com/a/398809867_256702) 
+
+十三届全国人大三次会议以2879票赞成、2票反对、5票弃权，高票表决通过《中华人民共和国民法典》。
+
+![image](https://user-images.githubusercontent.com/101308954/157667088-112eb896-8c79-418c-a7ab-facec2c55b5a.png)
+
+In addition to general and supplementary provisions, the Civil Code includes six parts on real rights, contracts, personality rights, marriage and family, inheritance, and tort liabilities.
+
+除总则和附则之外，《民法典》包括物权、合同、人格权、婚姻家庭、继承、侵权责任这六编。
+
+The personal rights, property rights and other lawful rights and interests of the parties to civil legal relations shall be protected by law and shall not be infringed upon by any organization or individual, reads the Civil Code in its opening chapter.
+
+《民法典》在总则部分明确，民事主体的人身权利、财产权利以及其他合法权益受法律保护，任何组织和个人不得侵犯。
+
+保护人格尊严
+
+The part on personality rights includes provisions on a civil subject's rights to life, body, health, name, portrait, reputation and privacy, among others.
+
+人格权编包括民事主体享有的生命权、身体权、健康权、姓名权、肖像权、名誉权、隐私权等权利。
+
+The part features stipulations on regulating studies related to human genes or embryos, strengthening privacy protection, banning sexual harassment, and other prominent issues of public concern.
+
+人格权编还对严格规范与人体基因、人体胚胎等有关的科研活动，加强隐私保护，禁止性骚扰，以及其他公众关注的重要问题进行了规定。
+
+适应新形势
+
+Data and online virtual assets are also legally protected, according to the Civil Code.
+
+《民法典》规定，数据及网络虚拟财产也受法律保护。
+
+Personal information includs an individual's name, birthdate, identity card number, fingerprints, home address and phone number, as well as email addresses and location data.
+
+此外，《民法典》还对紧急情况下保护个人权利的条款做了微调。
+
+For example, if the guardian of a child is unable to perform his or her duties due to emergencies like being put under medical isolation, primary-level Party committees or civil affairs authorities must take over the guardianship, according to the code.
+
+比如，儿童的监护人在医学隔离等紧急情况下无法履行监护责任的，基层党委或民政部门必须承担起监护责任。
+
+Lawmakers say drafting the code is not about formulating a new civil law but rather systematically incorporating existing civil laws and regulations, modifying and improving them to adapt to new situations while maintaining their consistency.
+
+人大代表们表示，起草《民法典》并不是制定一部新的民法，而是将现有的民事法律法规进行系统整合，在保持其一致性的前提下，根据新形势进行修订和完善。
+
+The Civil Code will take effect on Jan 1, 2021.
+
+《民法典》自2021年1月1日起施行。
+
+相关词汇
+
+```
+隐私政策 privacy policy
+信息安全 information security
+信息泄露 information leak
+社会信用体系 social credit system
+个人信用数据库 personal credit database
+人格权 personality rights
+社会信用体系 social credit system
+居住权 rights of habitation
+依法治国 rule of law/law-based governance
+```
+
+## [民法典英文翻译](https://posts.careerengine.us/p/60f1686d2fffc33358bf2fd2)
+
+![image](https://user-images.githubusercontent.com/101308954/157668373-96018ce8-4c78-4f26-ae43-c52a192cad6d.png)
+> [民法典英文版本.pdf](https://github.com/ahaenglish/ahaenglish/files/8223610/default.pdf)
+
 
 ##  [人人都能用英语](https://github.com/xiaolai/xiaolai.github.io/edit/master/everyone-can-use-english/README.md)
 
