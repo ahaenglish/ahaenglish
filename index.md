@@ -3,6 +3,9 @@
 ![image](https://user-images.githubusercontent.com/101308954/157587222-a719fc51-4883-4710-9efe-ad9dc44c5d68.png)
 > 用就是最好的学，学以致用，以用促学。
 
+![image](https://user-images.githubusercontent.com/101308954/162552428-cd1d4f72-b98b-4e27-a4e5-82faf5f62e04.png)
+> [官媒何罪之有？中式民主有何不行？刘欣在巴基斯坦激辩西方记者](https://www.ixigua.com/7083457008430481959)
+
 ## [the Civil Code](https://www.sohu.com/a/398809867_256702) 
 
 十三届全国人大三次会议以2879票赞成、2票反对、5票弃权，高票表决通过《中华人民共和国民法典》。
